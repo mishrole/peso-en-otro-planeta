@@ -1,0 +1,25 @@
+.contenedor {
+	text-align: center;
+	position: relative;
+	padding-top: 13%;
+	display: block;
+}
+
+h1{
+	margin-bottom: 5%;
+}
+
+.peso{
+	height: 10%;
+	width: 14%;
+}
+
+.opciones{
+	height: 10%;
+	width: 14%;
+}
+
+.boton{
+	height: 30px;
+	width: 14%;
+}
